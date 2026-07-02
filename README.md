@@ -1,5 +1,7 @@
 # InflueSearch — Rebuilt, Refactored & Optimized Influencer Dashboard
 
+**Live Demo:** [wobbai-gamma.vercel.app](https://wobbai-gamma.vercel.app)
+
 InflueSearch is a fast, responsive, and beautiful influencer search application. It is built with **React 19**, **TypeScript**, **Vite 8**, **Tailwind CSS v4**, and **Zustand**. 
 
 This repository is a completely polished, restructured, and optimized upgrade from the original assignment starter. Every feature, bug fix, and performance tune-up has been fully implemented, verified, and audited with zero compile errors and zero lint warnings.
