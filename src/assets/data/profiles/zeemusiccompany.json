@@ -1,0 +1,22 @@
+{
+    "cached": true,
+    "data": {
+        "success": true,
+        "user_profile": {
+            "type": "youtube",
+            "user_id": "UCFFbwnve3yF62-tVXkTyHqg",
+            "username": "zeemusiccompany",
+            "url": "https://www.youtube.com/channel/UCFFbwnve3yF62-tVXkTyHqg",
+            "picture": "https://yt3.googleusercontent.com/5ozNNrQBUJY8TPt2BYo6fEL-07ilkWHVedWCGFjtvuHU0aYrg1Iop-LJvprodA1_9-MTv7G_YA=s480-c-k-c0x00ffffff-no-rj",
+            "fullname": "Zee Music Company",
+            "description": "Zee Music Company - Bollywood music channel with the latest Bollywood hits.",
+            "is_verified": true,
+            "is_business": false,
+            "followers": 111000000,
+            "engagements": 1556,
+            "engagement_rate": 0.000014018018018018018,
+            "avg_views": 150273,
+            "latest_post_image": "https://yt3.googleusercontent.com/5ozNNrQBUJY8TPt2BYo6fEL-07ilkWHVedWCGFjtvuHU0aYrg1Iop-LJvprodA1_9-MTv7G_YA=s480-c-k-c0x00ffffff-no-rj"
+        }
+    }
+}

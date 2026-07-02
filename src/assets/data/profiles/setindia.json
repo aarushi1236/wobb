@@ -1,0 +1,22 @@
+{
+    "cached": true,
+    "data": {
+        "success": true,
+        "user_profile": {
+            "type": "youtube",
+            "user_id": "UCpEhnqL0y41EpW2TvWAHD7Q",
+            "username": "setindia",
+            "url": "https://www.youtube.com/channel/UCpEhnqL0y41EpW2TvWAHD7Q",
+            "picture": "https://yt3.googleusercontent.com/eu051krrRNQMMi5h6ynfnvhFJzxzSKulJQ42g5v72MQ9Bvv8KdpNIa6yM-0iGpnDgSF0itAD=s480-c-k-c0x00ffffff-no-rj",
+            "fullname": "SET India",
+            "description": "Sony Entertainment Television India - Premium Hindi entertainment channel.",
+            "is_verified": true,
+            "is_business": false,
+            "followers": 178000000,
+            "engagements": 357,
+            "engagement_rate": 0.0000020056179775280897,
+            "avg_views": 15027,
+            "latest_post_image": "https://yt3.googleusercontent.com/eu051krrRNQMMi5h6ynfnvhFJzxzSKulJQ42g5v72MQ9Bvv8KdpNIa6yM-0iGpnDgSF0itAD=s480-c-k-c0x00ffffff-no-rj"
+        }
+    }
+}

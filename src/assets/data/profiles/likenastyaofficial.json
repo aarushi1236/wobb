@@ -1,0 +1,22 @@
+{
+    "cached": true,
+    "data": {
+        "success": true,
+        "user_profile": {
+            "type": "youtube",
+            "user_id": "UCJplp5SjeGSdVdwsfb9Q7lQ",
+            "username": "LikeNastyaofficial",
+            "url": "https://www.youtube.com/channel/UCJplp5SjeGSdVdwsfb9Q7lQ",
+            "picture": "https://yt3.googleusercontent.com/ytc/AIdro_kj6ASR_jV8XSSGF_SSD4hUBJInCWwWRlR2mxEcwGVQW4s=s480-c-k-c0x00ffffff-no-rj",
+            "fullname": "Like Nastya",
+            "description": "Like Nastya - Fun and educational videos for kids. Learning, playing, and adventures.",
+            "is_verified": true,
+            "is_business": false,
+            "followers": 121000000,
+            "engagements": 66098,
+            "engagement_rate": 0.0005462644628099173,
+            "avg_views": 10535390,
+            "latest_post_image": "https://yt3.googleusercontent.com/ytc/AIdro_kj6ASR_jV8XSSGF_SSD4hUBJInCWwWRlR2mxEcwGVQW4s=s480-c-k-c0x00ffffff-no-rj"
+        }
+    }
+}

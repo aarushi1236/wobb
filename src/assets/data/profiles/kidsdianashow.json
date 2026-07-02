@@ -1,0 +1,22 @@
+{
+    "cached": true,
+    "data": {
+        "success": true,
+        "user_profile": {
+            "type": "youtube",
+            "user_id": "UCk8GzjMOrta8yxDcKfylJYw",
+            "username": "KidsDianaShow",
+            "url": "https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw",
+            "picture": "https://yt3.googleusercontent.com/ytc/AIdro_kWUVocierGiQqzhp6IVSjzD7AgfGErLQUuN5tq9yP54-o=s480-c-k-c0x00ffffff-no-rj",
+            "fullname": "✿ Kids Diana Show",
+            "description": "Kids Diana Show - Fun videos for kids, featuring Diana and Roma playing and learning.",
+            "is_verified": true,
+            "is_business": false,
+            "followers": 126000000,
+            "engagements": 22048,
+            "engagement_rate": 0.00017498412698412698,
+            "avg_views": 12045998,
+            "latest_post_image": "https://yt3.googleusercontent.com/ytc/AIdro_kWUVocierGiQqzhp6IVSjzD7AgfGErLQUuN5tq9yP54-o=s480-c-k-c0x00ffffff-no-rj"
+        }
+    }
+}

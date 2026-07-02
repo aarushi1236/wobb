@@ -1,0 +1,22 @@
+{
+    "cached": true,
+    "data": {
+        "success": true,
+        "user_profile": {
+            "type": "youtube",
+            "user_id": "UCbCmjCuTUZos6Inko4u57UQ",
+            "username": "checkgate",
+            "url": "https://www.youtube.com/channel/UCbCmjCuTUZos6Inko4u57UQ",
+            "picture": "https://yt3.googleusercontent.com/ytc/AIdro_mR-I4TDlJI7Rc2jwF0cZf6uMnzDpkRggMK4zGOi4eOndY=s480-c-k-c0x00ffffff-no-rj",
+            "fullname": "Cocomelon - Nursery Rhymes",
+            "description": "Cocomelon - Nursery Rhymes and educational videos for kids.",
+            "is_verified": false,
+            "is_business": false,
+            "followers": 184000000,
+            "engagements": 124944,
+            "engagement_rate": 0.0006790434782608695,
+            "avg_views": 8662494,
+            "latest_post_image": "https://yt3.googleusercontent.com/ytc/AIdro_mR-I4TDlJI7Rc2jwF0cZf6uMnzDpkRggMK4zGOi4eOndY=s480-c-k-c0x00ffffff-no-rj"
+        }
+    }
+}

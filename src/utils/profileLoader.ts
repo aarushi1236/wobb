@@ -7,8 +7,9 @@ const profileModules = import.meta.glob<ProfileDetailResponse>(
 export async function loadProfileByUsername(
   username: string
 ): Promise<ProfileDetailResponse | null> {
-  const path = `../assets/data/profiles/${username}.json`;
-  const loader = profileModules[path];
+  const targetPath = `../assets/data/profiles/${username.toLowerCase()}.json`;
+  const matchingKey = Object.keys(profileModules).find((key) => key.toLowerCase() === targetPath);
+  const loader = matchingKey ? profileModules[matchingKey] : null;
 
   if (!loader) {
     return null;

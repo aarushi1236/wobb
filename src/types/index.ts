@@ -1,4 +1,4 @@
-export type Platform = "instagram" | "youtube" | "tiktok";
+export type Platform = "instagram" | "youtube" | "tiktok" | "all";
 
 export interface UserProfileSummary {
   user_id: string;
@@ -10,8 +10,10 @@ export interface UserProfileSummary {
   followers: number;
   engagements?: number;
   engagement_rate?: number;
+  latest_post_image?: string;
   handle?: string;
   avg_views?: number;
+  platform?: Platform;
 }
 
 export interface SearchAccount {

@@ -1,0 +1,22 @@
+{
+    "cached": true,
+    "data": {
+        "success": true,
+        "user_profile": {
+            "type": "youtube",
+            "user_id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+            "username": "PewDiePie",
+            "url": "https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+            "picture": "https://yt3.googleusercontent.com/5oUY3tashyxfqsjO5SGhjT4dus8FkN9CsAHwXWISFrdPYii1FudD4ICtLfuCw6-THJsJbgoY=s480-c-k-c0x00ffffff-no-rj",
+            "fullname": "PewDiePie",
+            "description": "Swedish YouTuber, gamer, and comedian. One of the most subscribed independent creators.",
+            "is_verified": true,
+            "is_business": false,
+            "followers": 110000000,
+            "engagements": 144945,
+            "engagement_rate": 0.001317681818181818,
+            "avg_views": 2629350,
+            "latest_post_image": "https://yt3.googleusercontent.com/5oUY3tashyxfqsjO5SGhjT4dus8FkN9CsAHwXWISFrdPYii1FudD4ICtLfuCw6-THJsJbgoY=s480-c-k-c0x00ffffff-no-rj"
+        }
+    }
+}
